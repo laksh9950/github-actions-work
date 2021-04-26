@@ -1,4 +1,4 @@
-name: Giphy Generator
+name: Giphy Generators
 
 on:
   issues:
